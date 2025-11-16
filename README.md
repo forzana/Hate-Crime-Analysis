@@ -51,7 +51,7 @@ A typical Framework project looks like this:
 
 | Command           | Description                                              |
 | ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
+| `npm install`        | Install or reinstall dependencies                        |
 | `npm run dev`        | Start local preview server                               |
 | `npm run build`      | Build your static site, generating `./dist`              |
 | `npm run deploy`     | Deploy your app to Observable                            |
